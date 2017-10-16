@@ -10,7 +10,7 @@
   </head>
   <body>
     <h1>sign up for more details</h1>
-
+     <a href="login.php">Login</a>
 
     <form action="insert.php" method="post" enctype="multipart/form-data">
 
